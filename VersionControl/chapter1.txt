@@ -1,2 +1,1 @@
-This is my first time using Git. 
- Im making some changes
+This story is about aliens
