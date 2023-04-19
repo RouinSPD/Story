@@ -1,11 +1,2 @@
 This is my first time using Git. 
-
-Git status 
-Shows files inside your staging area 
-Stagin area 
-An intermediate place where you can pick and choose which files inside your working directory you want to commit
-
-Files in red are the files inside the working directory, those files are not yet inside the staging area, you cannot track changes in them yet 
-
-Git add filename, to add to the staging area 
-Git commit -m "message", to commit the file , -m to show message to explain which changes have been made
+ Im making some changes
